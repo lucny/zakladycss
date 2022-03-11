@@ -1,0 +1,1 @@
+# Základy CSS - školní příklad
